@@ -83,14 +83,6 @@ I specialize in:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifaashiq-1&theme=react&show_icons=true&hide_border=false" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaashiq-1&theme=react&layout=compact&hide_border=false" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaashiq-1&theme=react" alt="GitHub Streak" />
 </p>
 
