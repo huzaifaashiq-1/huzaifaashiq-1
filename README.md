@@ -1,35 +1,119 @@
-# 💫 About Me:
-👋 Hi, I’m Huzaifa Ahmad<br>
-🎓 Final-year BS Computer Science student at University of Management and Technology (UMT), Lahore<br><br>
-I’m a dynamic software engineer with a strong foundation in **full-stack web development (MERN)**, **low-level system architecture (C++, Assembly)**, and **AI-driven automation (Python, n8n)**. I have a proven track record of leading cross-functional academic teams and working as an International Technical Consultant for clients globally.<br><br>
-My interests include cybersecurity (mobile device forensics & vulnerability assessment), scalable architectures, automating digital workflows, and turning complex ideas into real-world, user-friendly solutions 🚀
+<h1 align="center">👋 Hi, I'm Huzaifa Ahmad</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huzaifaahmad555) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huzaifamalik_1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/huzaifamalik_1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smartmalikyt555@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-%23EA4B33.svg?style=for-the-badge&logo=n8n&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# 💼 Experience & Leadership:
-- **International Technical Consultant (Freelance)** - Mapping software workflows and developing MVP architectures for global clients in the UK & Saudi Arabia.
-- **Technical Team Lead (UMT)** - Spearheading agile development cycles and fostering collaborative coding environments for core CS projects.
-
-# 🚀 Featured Projects:
-- **Full-Stack Web Applications (MERN)** - Scalable, responsive websites utilizing MongoDB, Express.js, React.js, and Node.js with secure backend RESTful APIs.
-- **AI-Powered Workflow Automation** - Engineered an intelligent conversational chatbot architecture integrating n8n automated workflows and foundational ML models.
-- **Scalable Pacman Game Engine** - High-performance game logic engine utilizing advanced Object-Oriented Programming (OOP) concepts in C++.
-- **Banking Management System** - Programmed a secure financial transaction processing system demonstrating proficiency in low-level system architecture and Assembly Language (COAL).
-
-# 🎓 Certifications:
-- Cybersecurity Certification (Hunarmand Punjab)
-- AI & ML Coursework (Coursera)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=huzaifaasiq-1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=huzaifaasiq-1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaasiq-1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Huzaifa+Ahmad!;Full-Stack+Web+Developer;AI+%26+Automation+Enthusiast" alt="Typing Animation" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=huzaifaasiq-1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="center">💻 Software Engineer | 🚀 Building Scalable & Intelligent Solutions</h3>
+
+<p align="center">
+ <a href="mailto:smartmalikyt555@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href="https://linkedin.com/in/huzaifaahmad555" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://github.com/huzaifaashiq-1" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <a href="https://instagram.com/huzaifamalik_1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ <a href="https://x.com/huzaifamalik_1" target="_blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
+
+---
+
+## 🚀 About Me
+
+> _"Turning complex ideas into real-world, scalable applications."_
+
+I'm a **Computer Science student and Software Engineer**, passionate about designing intelligent systems and robust software architectures.  
+I’m currently in my final year at the **University of Management and Technology (UMT), Lahore**, sharpening my skills in full-stack development, low-level architecture, and AI-driven workflows.
+
+I specialize in:
+- 🌐 **Full-Stack Web Development (MERN Stack)**
+- ⚙️ **Low-Level System Architecture (C++, Assembly)**
+- 🤖 **AI-Driven Automation (Python, n8n)**
+- 🎨 **UI/UX Design & Mobile App Development**
+
+---
+
+## 🔥 Highlights
+
+- 🧠 **Expertise**: MERN Stack · C++ · System Architecture · AI Workflows  
+- ⚙️ **Projects**: AI-Powered Chatbot · Scalable Pacman Engine · Banking Management System  
+- 🤝 **Collab**: International Technical Consultant for Global Clients (UK & Saudi Arabia)  
+- 🚀 **Learning Focus**: Mobile Device Forensics & Cybersecurity Protocols  
+- 📬 **Reach Me**: smartmalikyt555@gmail.com  
+
+---
+
+## 🧠 Skills & Technologies
+
+### 🐍 Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🌐 Web Development
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
+
+### 🤖 AI & Automation
+![n8n](https://img.shields.io/badge/n8n-%23EA4B33.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
+### 🧰 Tools & Design
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=huzaifaasiq-1&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaasiq-1&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaasiq-1&theme=react" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+📧 **Email**: [smartmalikyt555@gmail.com](mailto:smartmalikyt555@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/huzaifaahmad555](https://www.linkedin.com/in/huzaifaahmad555)  
+💻 **GitHub**: [github.com/huzaifaashiq-1](https://github.com/huzaifaashiq-1)
+
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=huzaifaasiq-1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/huzaifaasiq-1/huzaifaasiq-1/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## ⭐ Thanks for Visiting!
+
+If you like my work, please ⭐ star my repositories.  
+Let’s build something impactful together! 🚀
