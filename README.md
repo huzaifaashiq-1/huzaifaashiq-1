@@ -83,15 +83,15 @@ I specialize in:
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=huzaifaasiq-1&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=huzaifaashiq-1&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaasiq-1&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaashiq-1&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaasiq-1&theme=react" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaashiq-1&theme=react" alt="GitHub Streak" />
 </p>
 
 ---
@@ -103,13 +103,17 @@ I specialize in:
 💻 **GitHub**: [github.com/huzaifaashiq-1](https://github.com/huzaifaashiq-1)
 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=huzaifaasiq-1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+ <img src="https://komarev.com/ghpvc/?username=huzaifaashiq-1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/huzaifaasiq-1/huzaifaasiq-1/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huzaifaashiq-1/huzaifaashiq-1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huzaifaashiq-1/huzaifaashiq-1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huzaifaashiq-1/huzaifaashiq-1/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
